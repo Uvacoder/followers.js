@@ -115,10 +115,10 @@ Follow me to add yourself :)
   </td>
 
   <td align="center">
-    <a href="https://github.com/high-skill">
+    <a href="https://github.com/dev-all-web">
       <img src="https://avatars.githubusercontent.com/u/55296314?v=4" />
       <br />
-      high-skill
+      dev-all-web
     </a> 
   </td>
 
