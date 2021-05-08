@@ -123,10 +123,10 @@ Follow me to add yourself :)
   </td>
 
   <td align="center">
-    <a href="https://github.com/mean-mevn-php">
+    <a href="https://github.com/mernmevnphp">
       <img src="https://avatars.githubusercontent.com/u/55296314?v=4" />
       <br />
-      mean-mevn-php
+      mernmevnphp
     </a> 
   </td>
 
