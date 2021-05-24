@@ -131,10 +131,10 @@ Follow me to add yourself :)
   </td>
 
   <td align="center">
-    <a href="https://github.com/george-mik">
+    <a href="https://github.com/yuriy-savin">
       <img src="https://avatars.githubusercontent.com/u/55296314?v=4" />
       <br />
-      george-mik
+      yuriy-savin
     </a> 
   </td>
 
