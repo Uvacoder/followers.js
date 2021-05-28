@@ -131,10 +131,10 @@ Follow me to add yourself :)
   </td>
 
   <td align="center">
-    <a href="https://github.com/yuriy-savin">
+    <a href="https://github.com/mern-dev-full">
       <img src="https://avatars.githubusercontent.com/u/55296314?v=4" />
       <br />
-      yuriy-savin
+      mern-dev-full
     </a> 
   </td>
 
