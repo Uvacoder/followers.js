@@ -83,10 +83,10 @@ Follow me to add yourself :)
   </td>
 
   <td align="center">
-    <a href="https://github.com/Wajrak-net">
+    <a href="https://github.com/michal-wajrak">
       <img src="https://avatars.githubusercontent.com/u/41954395?v=4" />
       <br />
-      Wajrak-net
+      michal-wajrak
     </a> 
   </td>
 
