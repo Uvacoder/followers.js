@@ -123,6 +123,14 @@ Follow me to add yourself :)
   </td>
 
   <td align="center">
+    <a href="https://github.com/btk">
+      <img src="https://avatars.githubusercontent.com/u/5216601?v=4" />
+      <br />
+      btk
+    </a> 
+  </td>
+
+  <td align="center">
     <a href="https://github.com/Magicianred">
       <img src="https://avatars.githubusercontent.com/u/4624113?v=4" />
       <br />
@@ -136,8 +144,8 @@ Follow me to add yourself :)
       <br />
       neodigm
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/luismayta">
       <img src="https://avatars.githubusercontent.com/u/833664?v=4" />
