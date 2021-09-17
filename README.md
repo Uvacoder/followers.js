@@ -107,10 +107,26 @@ Follow me to add yourself :)
   </td>
 
   <td align="center">
+    <a href="https://github.com/filippo-fonseca">
+      <img src="https://avatars.githubusercontent.com/u/48065878?v=4" />
+      <br />
+      filippo-fonseca
+    </a> 
+  </td>
+
+  <td align="center">
     <a href="https://github.com/Hexiro">
       <img src="https://avatars.githubusercontent.com/u/42787085?v=4" />
       <br />
       Hexiro
+    </a> 
+  </td>
+
+  <td align="center">
+    <a href="https://github.com/stephenajulu">
+      <img src="https://avatars.githubusercontent.com/u/42298053?v=4" />
+      <br />
+      stephenajulu
     </a> 
   </td>
 
@@ -128,8 +144,8 @@ Follow me to add yourself :)
       <br />
       khadnot
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/btk">
       <img src="https://avatars.githubusercontent.com/u/5216601?v=4" />
@@ -144,8 +160,8 @@ Follow me to add yourself :)
       <br />
       Magicianred
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://github.com/neodigm">
       <img src="https://avatars.githubusercontent.com/u/3151842?v=4" />
