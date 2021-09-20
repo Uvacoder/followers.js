@@ -67,6 +67,14 @@ Follow me to add yourself :)
   </td>
 
   <td align="center">
+    <a href="https://github.com/Piyush-linux">
+      <img src="https://avatars.githubusercontent.com/u/72852842?v=4" />
+      <br />
+      Piyush-linux
+    </a> 
+  </td>
+
+  <td align="center">
     <a href="https://github.com/mdmasrur">
       <img src="https://avatars.githubusercontent.com/u/71648280?v=4" />
       <br />
@@ -88,16 +96,16 @@ Follow me to add yourself :)
       <br />
       pxseu
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/arjunks2112">
       <img src="https://avatars.githubusercontent.com/u/56349056?v=4" />
       <br />
       arjunks2112
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://github.com/ryihan">
       <img src="https://avatars.githubusercontent.com/u/54474184?v=4" />
@@ -136,16 +144,16 @@ Follow me to add yourself :)
       <br />
       migueravila
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/khadnot">
       <img src="https://avatars.githubusercontent.com/u/20587222?v=4" />
       <br />
       khadnot
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://github.com/mezawebdev">
       <img src="https://avatars.githubusercontent.com/u/18473007?v=4" />
