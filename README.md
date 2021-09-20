@@ -147,6 +147,14 @@ Follow me to add yourself :)
   </td></tr>
 <tr>
   <td align="center">
+    <a href="https://github.com/mezawebdev">
+      <img src="https://avatars.githubusercontent.com/u/18473007?v=4" />
+      <br />
+      mezawebdev
+    </a> 
+  </td>
+
+  <td align="center">
     <a href="https://github.com/btk">
       <img src="https://avatars.githubusercontent.com/u/5216601?v=4" />
       <br />
