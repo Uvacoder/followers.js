@@ -187,13 +187,21 @@ Follow me to add yourself :)
   </td>
 
   <td align="center">
+    <a href="https://github.com/Randagio13">
+      <img src="https://avatars.githubusercontent.com/u/3518596?v=4" />
+      <br />
+      Randagio13
+    </a> 
+  </td></tr>
+<tr>
+  <td align="center">
     <a href="https://github.com/neodigm">
       <img src="https://avatars.githubusercontent.com/u/3151842?v=4" />
       <br />
       neodigm
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://github.com/luismayta">
       <img src="https://avatars.githubusercontent.com/u/833664?v=4" />
