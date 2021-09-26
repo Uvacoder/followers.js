@@ -83,29 +83,21 @@ Follow me to add yourself :)
   </td>
 
   <td align="center">
-    <a href="https://github.com/coder7290">
-      <img src="https://avatars.githubusercontent.com/u/69484492?v=4" />
-      <br />
-      coder7290
-    </a> 
-  </td>
-
-  <td align="center">
     <a href="https://github.com/SingularisArt">
       <img src="https://avatars.githubusercontent.com/u/57925294?v=4" />
       <br />
       SingularisArt
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://github.com/pxseu">
       <img src="https://avatars.githubusercontent.com/u/57842793?v=4" />
       <br />
       pxseu
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/arjunks2112">
       <img src="https://avatars.githubusercontent.com/u/56349056?v=4" />
@@ -144,16 +136,16 @@ Follow me to add yourself :)
       <br />
       Hexiro
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://github.com/stephenajulu">
       <img src="https://avatars.githubusercontent.com/u/42298053?v=4" />
       <br />
       stephenajulu
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/migueravila">
       <img src="https://avatars.githubusercontent.com/u/35583825?v=4" />
@@ -192,16 +184,16 @@ Follow me to add yourself :)
       <br />
       Randagio13
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://github.com/neodigm">
       <img src="https://avatars.githubusercontent.com/u/3151842?v=4" />
       <br />
       neodigm
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/luismayta">
       <img src="https://avatars.githubusercontent.com/u/833664?v=4" />
