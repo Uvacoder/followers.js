@@ -195,14 +195,6 @@ Follow me to add yourself :)
   </td></tr>
 <tr>
   <td align="center">
-    <a href="https://github.com/brunoj1">
-      <img src="https://avatars.githubusercontent.com/u/12649338?v=4" />
-      <br />
-      brunoj1
-    </a> 
-  </td>
-
-  <td align="center">
     <a href="https://github.com/Magicianred">
       <img src="https://avatars.githubusercontent.com/u/4624113?v=4" />
       <br />
