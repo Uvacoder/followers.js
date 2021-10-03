@@ -59,10 +59,10 @@ Follow me to add yourself :)
   </td>
 
   <td align="center">
-    <a href="https://github.com/XuQingGen">
+    <a href="https://github.com/SatinWuker">
       <img src="https://avatars.githubusercontent.com/u/74630829?v=4" />
       <br />
-      XuQingGen
+      SatinWuker
     </a> 
   </td>
 
