@@ -235,13 +235,21 @@ Follow me to add yourself :)
   </td>
 
   <td align="center">
+    <a href="https://github.com/garronej">
+      <img src="https://avatars.githubusercontent.com/u/6702424?v=4" />
+      <br />
+      garronej
+    </a> 
+  </td></tr>
+<tr>
+  <td align="center">
     <a href="https://github.com/Magicianred">
       <img src="https://avatars.githubusercontent.com/u/4624113?v=4" />
       <br />
       Magicianred
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://github.com/Randagio13">
       <img src="https://avatars.githubusercontent.com/u/3518596?v=4" />
