@@ -195,6 +195,14 @@ Follow me to add yourself :)
   </td></tr>
 <tr>
   <td align="center">
+    <a href="https://github.com/silvesterwali">
+      <img src="https://avatars.githubusercontent.com/u/40487188?v=4" />
+      <br />
+      silvesterwali
+    </a> 
+  </td>
+
+  <td align="center">
     <a href="https://github.com/migueravila">
       <img src="https://avatars.githubusercontent.com/u/35583825?v=4" />
       <br />
@@ -232,16 +240,16 @@ Follow me to add yourself :)
       <br />
       mezawebdev
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/garronej">
       <img src="https://avatars.githubusercontent.com/u/6702424?v=4" />
       <br />
       garronej
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://github.com/Magicianred">
       <img src="https://avatars.githubusercontent.com/u/4624113?v=4" />
