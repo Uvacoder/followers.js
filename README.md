@@ -67,10 +67,10 @@ Follow me to add yourself :)
   </td>
 
   <td align="center">
-    <a href="https://github.com/SinEstresthemainone">
+    <a href="https://github.com/Strezless-Musick-Metadata">
       <img src="https://avatars.githubusercontent.com/u/74866389?v=4" />
       <br />
-      SinEstresthemainone
+      Strezless-Musick-Metadata
     </a> 
   </td>
 
