@@ -251,14 +251,6 @@ Follow me to add yourself :)
   </td>
 
   <td align="center">
-    <a href="https://github.com/garronej">
-      <img src="https://avatars.githubusercontent.com/u/6702424?v=4" />
-      <br />
-      garronej
-    </a> 
-  </td>
-
-  <td align="center">
     <a href="https://github.com/Magicianred">
       <img src="https://avatars.githubusercontent.com/u/4624113?v=4" />
       <br />
