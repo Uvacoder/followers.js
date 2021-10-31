@@ -155,10 +155,10 @@ Follow me to add yourself :)
   </td>
 
   <td align="center">
-    <a href="https://github.com/notandrewdev">
+    <a href="https://github.com/anddddrew">
       <img src="https://avatars.githubusercontent.com/u/59238070?v=4" />
       <br />
-      notandrewdev
+      anddddrew
     </a> 
   </td>
 
