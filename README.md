@@ -304,5 +304,13 @@ Follow me to add yourself :)
       <br />
       luismayta
     </a> 
+  </td>
+
+  <td align="center">
+    <a href="https://github.com/krishaamer">
+      <img src="https://avatars.githubusercontent.com/u/54409?v=4" />
+      <br />
+      krishaamer
+    </a> 
   </td></tr></table>
 <!--END_SECTION:top-followers-->
