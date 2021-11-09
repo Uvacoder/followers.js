@@ -227,29 +227,21 @@ Follow me to add yourself :)
   </td>
 
   <td align="center">
-    <a href="https://github.com/Yusuf-YENICERI">
-      <img src="https://avatars.githubusercontent.com/u/38917909?v=4" />
-      <br />
-      Yusuf-YENICERI
-    </a> 
-  </td>
-
-  <td align="center">
     <a href="https://github.com/migueravila">
       <img src="https://avatars.githubusercontent.com/u/35583825?v=4" />
       <br />
       migueravila
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://github.com/simonri">
       <img src="https://avatars.githubusercontent.com/u/25769699?v=4" />
       <br />
       simonri
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/yazmnh87">
       <img src="https://avatars.githubusercontent.com/u/25097299?v=4" />
@@ -288,16 +280,16 @@ Follow me to add yourself :)
       <br />
       StephanGerbeth
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://github.com/Randagio13">
       <img src="https://avatars.githubusercontent.com/u/3518596?v=4" />
       <br />
       Randagio13
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/neodigm">
       <img src="https://avatars.githubusercontent.com/u/3151842?v=4" />
