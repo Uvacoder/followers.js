@@ -163,14 +163,6 @@ Follow me to add yourself :)
   </td>
 
   <td align="center">
-    <a href="https://github.com/Serjeel-Ranjan-911">
-      <img src="https://avatars.githubusercontent.com/u/74287984?v=4" />
-      <br />
-      Serjeel-Ranjan-911
-    </a> 
-  </td>
-
-  <td align="center">
     <a href="https://github.com/rbccawang">
       <img src="https://avatars.githubusercontent.com/u/73043927?v=4" />
       <br />
@@ -192,16 +184,16 @@ Follow me to add yourself :)
       <br />
       Piyush-linux
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://github.com/mdmasrur">
       <img src="https://avatars.githubusercontent.com/u/71648280?v=4" />
       <br />
       mdmasrur
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/am-miracle">
       <img src="https://avatars.githubusercontent.com/u/67763875?v=4" />
@@ -240,16 +232,16 @@ Follow me to add yourself :)
       <br />
       anddddrew
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://github.com/arjunks2112">
       <img src="https://avatars.githubusercontent.com/u/56349056?v=4" />
       <br />
       arjunks2112
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/ryihan">
       <img src="https://avatars.githubusercontent.com/u/54474184?v=4" />
@@ -288,16 +280,16 @@ Follow me to add yourself :)
       <br />
       stephenajulu
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://github.com/silvesterwali">
       <img src="https://avatars.githubusercontent.com/u/40487188?v=4" />
       <br />
       silvesterwali
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/migueravila">
       <img src="https://avatars.githubusercontent.com/u/35583825?v=4" />
@@ -336,16 +328,16 @@ Follow me to add yourself :)
       <br />
       khadnot
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://github.com/anbgsl1110">
       <img src="https://avatars.githubusercontent.com/u/20208270?v=4" />
       <br />
       anbgsl1110
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/mezawebdev">
       <img src="https://avatars.githubusercontent.com/u/18473007?v=4" />
@@ -384,16 +376,16 @@ Follow me to add yourself :)
       <br />
       neodigm
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://github.com/luismayta">
       <img src="https://avatars.githubusercontent.com/u/833664?v=4" />
       <br />
       luismayta
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/krishaamer">
       <img src="https://avatars.githubusercontent.com/u/54409?v=4" />
