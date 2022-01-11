@@ -299,6 +299,14 @@ Follow me to add yourself :)
   </td>
 
   <td align="center">
+    <a href="https://github.com/novacbn">
+      <img src="https://avatars.githubusercontent.com/u/31122674?v=4" />
+      <br />
+      novacbn
+    </a> 
+  </td>
+
+  <td align="center">
     <a href="https://github.com/simonri">
       <img src="https://avatars.githubusercontent.com/u/25769699?v=4" />
       <br />
@@ -328,16 +336,16 @@ Follow me to add yourself :)
       <br />
       khadnot
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/anbgsl1110">
       <img src="https://avatars.githubusercontent.com/u/20208270?v=4" />
       <br />
       anbgsl1110
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://github.com/mezawebdev">
       <img src="https://avatars.githubusercontent.com/u/18473007?v=4" />
@@ -376,16 +384,16 @@ Follow me to add yourself :)
       <br />
       neodigm
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/luismayta">
       <img src="https://avatars.githubusercontent.com/u/833664?v=4" />
       <br />
       luismayta
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://github.com/krishaamer">
       <img src="https://avatars.githubusercontent.com/u/54409?v=4" />
