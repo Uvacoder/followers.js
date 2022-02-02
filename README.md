@@ -451,6 +451,14 @@ Follow me to add yourself :)
   </td>
 
   <td align="center">
+    <a href="https://github.com/wijvancees">
+      <img src="https://avatars.githubusercontent.com/u/1697885?v=4" />
+      <br />
+      wijvancees
+    </a> 
+  </td>
+
+  <td align="center">
     <a href="https://github.com/luismayta">
       <img src="https://avatars.githubusercontent.com/u/833664?v=4" />
       <br />
