@@ -475,10 +475,10 @@ Follow me to add yourself :)
   </td>
 
   <td align="center">
-    <a href="https://github.com/wijvancees">
+    <a href="https://github.com/bocxx">
       <img src="https://avatars.githubusercontent.com/u/1697885?v=4" />
       <br />
-      wijvancees
+      bocxx
     </a> 
   </td></tr>
 <tr>
