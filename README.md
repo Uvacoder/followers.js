@@ -427,21 +427,13 @@ Follow me to add yourself :)
   </td>
 
   <td align="center">
-    <a href="https://github.com/Gilbertly">
-      <img src="https://avatars.githubusercontent.com/u/8110961?v=4" />
-      <br />
-      Gilbertly
-    </a> 
-  </td></tr>
-<tr>
-  <td align="center">
     <a href="https://github.com/dcalano">
       <img src="https://avatars.githubusercontent.com/u/7217772?v=4" />
       <br />
       dcalano
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/Magicianred">
       <img src="https://avatars.githubusercontent.com/u/4624113?v=4" />
@@ -480,16 +472,16 @@ Follow me to add yourself :)
       <br />
       bocxx
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://github.com/luismayta">
       <img src="https://avatars.githubusercontent.com/u/833664?v=4" />
       <br />
       luismayta
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/korbu">
       <img src="https://avatars.githubusercontent.com/u/89734?v=4" />
