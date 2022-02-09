@@ -459,6 +459,14 @@ Follow me to add yourself :)
   </td>
 
   <td align="center">
+    <a href="https://github.com/tainguyenbp">
+      <img src="https://avatars.githubusercontent.com/u/14048946?v=4" />
+      <br />
+      tainguyenbp
+    </a> 
+  </td>
+
+  <td align="center">
     <a href="https://github.com/dcalano">
       <img src="https://avatars.githubusercontent.com/u/7217772?v=4" />
       <br />
@@ -472,16 +480,16 @@ Follow me to add yourself :)
       <br />
       Magicianred
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/StephanGerbeth">
       <img src="https://avatars.githubusercontent.com/u/3775511?v=4" />
       <br />
       StephanGerbeth
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://github.com/Randagio13">
       <img src="https://avatars.githubusercontent.com/u/3518596?v=4" />
@@ -520,8 +528,8 @@ Follow me to add yourself :)
       <br />
       korbu
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/krishaamer">
       <img src="https://avatars.githubusercontent.com/u/54409?v=4" />
