@@ -427,21 +427,13 @@ Follow me to add yourself :)
   </td>
 
   <td align="center">
-    <a href="https://github.com/jishanshaikh4">
-      <img src="https://avatars.githubusercontent.com/u/30091032?v=4" />
-      <br />
-      jishanshaikh4
-    </a> 
-  </td></tr>
-<tr>
-  <td align="center">
     <a href="https://github.com/thatbeautifuldream">
       <img src="https://avatars.githubusercontent.com/u/28717686?v=4" />
       <br />
       thatbeautifuldream
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/simonri">
       <img src="https://avatars.githubusercontent.com/u/25769699?v=4" />
@@ -480,16 +472,16 @@ Follow me to add yourself :)
       <br />
       anbgsl1110
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://github.com/mezawebdev">
       <img src="https://avatars.githubusercontent.com/u/18473007?v=4" />
       <br />
       mezawebdev
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/taiwabisabi">
       <img src="https://avatars.githubusercontent.com/u/17015240?v=4" />
@@ -528,16 +520,16 @@ Follow me to add yourself :)
       <br />
       dcalano
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://github.com/Magicianred">
       <img src="https://avatars.githubusercontent.com/u/4624113?v=4" />
       <br />
       Magicianred
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/StephanGerbeth">
       <img src="https://avatars.githubusercontent.com/u/3775511?v=4" />
@@ -576,16 +568,16 @@ Follow me to add yourself :)
       <br />
       luismayta
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://github.com/korbu">
       <img src="https://avatars.githubusercontent.com/u/89734?v=4" />
       <br />
       korbu
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/krishaamer">
       <img src="https://avatars.githubusercontent.com/u/54409?v=4" />
