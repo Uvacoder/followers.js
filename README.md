@@ -371,10 +371,10 @@ Follow me to add yourself :)
   </td>
 
   <td align="center">
-    <a href="https://github.com/veeloo">
+    <a href="https://github.com/cehaaa">
       <img src="https://avatars.githubusercontent.com/u/55861341?v=4" />
       <br />
-      veeloo
+      cehaaa
     </a> 
   </td>
 
