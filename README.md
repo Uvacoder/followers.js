@@ -19,14 +19,6 @@ Follow me to add yourself :)
   </td>
 
   <td align="center">
-    <a href="https://github.com/dthabata">
-      <img src="https://avatars.githubusercontent.com/u/97548859?v=4" />
-      <br />
-      dthabata
-    </a> 
-  </td>
-
-  <td align="center">
     <a href="https://github.com/jordan-moreira">
       <img src="https://avatars.githubusercontent.com/u/97352446?v=4" />
       <br />
@@ -48,16 +40,16 @@ Follow me to add yourself :)
       <br />
       CodePromoter
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://github.com/Djxjcxhz">
       <img src="https://avatars.githubusercontent.com/u/95674471?v=4" />
       <br />
       Djxjcxhz
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/Sandesh333333">
       <img src="https://avatars.githubusercontent.com/u/95438448?v=4" />
@@ -96,16 +88,16 @@ Follow me to add yourself :)
       <br />
       TopCodeBeast
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://github.com/lilaroky">
       <img src="https://avatars.githubusercontent.com/u/93484212?v=4" />
       <br />
       lilaroky
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/EgeSarak">
       <img src="https://avatars.githubusercontent.com/u/92458435?v=4" />
@@ -127,6 +119,14 @@ Follow me to add yourself :)
       <img src="https://avatars.githubusercontent.com/u/91184748?v=4" />
       <br />
       zb1093628138
+    </a> 
+  </td>
+
+  <td align="center">
+    <a href="https://github.com/sparrowkvng">
+      <img src="https://avatars.githubusercontent.com/u/90632344?v=4" />
+      <br />
+      sparrowkvng
     </a> 
   </td>
 
