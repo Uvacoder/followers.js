@@ -635,6 +635,14 @@ Follow me to add yourself :)
   </td>
 
   <td align="center">
+    <a href="https://github.com/jeffersonsimaogoncalves">
+      <img src="https://avatars.githubusercontent.com/u/411493?v=4" />
+      <br />
+      jeffersonsimaogoncalves
+    </a> 
+  </td>
+
+  <td align="center">
     <a href="https://github.com/korbu">
       <img src="https://avatars.githubusercontent.com/u/89734?v=4" />
       <br />
