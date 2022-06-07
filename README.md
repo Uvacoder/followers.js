@@ -3,6 +3,14 @@ Follow me to add yourself :)
 <!--START_SECTION:top-followers-->
 <table><tr>
   <td align="center">
+    <a href="https://github.com/elellacode">
+      <img src="https://avatars.githubusercontent.com/u/104688305?v=4" />
+      <br />
+      elellacode
+    </a> 
+  </td>
+
+  <td align="center">
     <a href="https://github.com/irisraissa">
       <img src="https://avatars.githubusercontent.com/u/99778699?v=4" />
       <br />
@@ -40,16 +48,16 @@ Follow me to add yourself :)
       <br />
       CodePromoter
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/Djxjcxhz">
       <img src="https://avatars.githubusercontent.com/u/95674471?v=4" />
       <br />
       Djxjcxhz
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://github.com/Sandesh333333">
       <img src="https://avatars.githubusercontent.com/u/95438448?v=4" />
@@ -88,16 +96,16 @@ Follow me to add yourself :)
       <br />
       TopCodeBeast
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/lilaroky">
       <img src="https://avatars.githubusercontent.com/u/93484212?v=4" />
       <br />
       lilaroky
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://github.com/alineai18">
       <img src="https://avatars.githubusercontent.com/u/93167956?v=4" />
@@ -136,16 +144,16 @@ Follow me to add yourself :)
       <br />
       sparrowkvng
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/Maynard944">
       <img src="https://avatars.githubusercontent.com/u/90311276?v=4" />
       <br />
       Maynard944
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://github.com/Sinumi">
       <img src="https://avatars.githubusercontent.com/u/90086392?v=4" />
@@ -184,21 +192,13 @@ Follow me to add yourself :)
       <br />
       ksenginew
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/22940dev">
       <img src="https://avatars.githubusercontent.com/u/88142969?v=4" />
       <br />
       22940dev
-    </a> 
-  </td></tr>
-<tr>
-  <td align="center">
-    <a href="https://github.com/JSilver-Legend">
-      <img src="https://avatars.githubusercontent.com/u/87628861?v=4" />
-      <br />
-      JSilver-Legend
     </a> 
   </td>
 
