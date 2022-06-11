@@ -515,21 +515,29 @@ Follow me to add yourself :)
   </td>
 
   <td align="center">
+    <a href="https://github.com/AYIDouble">
+      <img src="https://avatars.githubusercontent.com/u/18186995?v=4" />
+      <br />
+      AYIDouble
+    </a> 
+  </td>
+
+  <td align="center">
     <a href="https://github.com/taiwabisabi">
       <img src="https://avatars.githubusercontent.com/u/17015240?v=4" />
       <br />
       taiwabisabi
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/mozafarimanesh">
       <img src="https://avatars.githubusercontent.com/u/16508150?v=4" />
       <br />
       mozafarimanesh
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://github.com/xchanmolx">
       <img src="https://avatars.githubusercontent.com/u/16154263?v=4" />
@@ -568,16 +576,16 @@ Follow me to add yourself :)
       <br />
       vivekweb2013
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/Magicianred">
       <img src="https://avatars.githubusercontent.com/u/4624113?v=4" />
       <br />
       Magicianred
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://github.com/StephanGerbeth">
       <img src="https://avatars.githubusercontent.com/u/3775511?v=4" />
@@ -616,16 +624,16 @@ Follow me to add yourself :)
       <br />
       luismayta
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/martinemmert">
       <img src="https://avatars.githubusercontent.com/u/558323?v=4" />
       <br />
       martinemmert
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://github.com/jeffersonsimaogoncalves">
       <img src="https://avatars.githubusercontent.com/u/411493?v=4" />
