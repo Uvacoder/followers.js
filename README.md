@@ -651,14 +651,6 @@ Follow me to add yourself :)
   </td>
 
   <td align="center">
-    <a href="https://github.com/martinemmert">
-      <img src="https://avatars.githubusercontent.com/u/558323?v=4" />
-      <br />
-      martinemmert
-    </a> 
-  </td>
-
-  <td align="center">
     <a href="https://github.com/jeffersonsimaogoncalves">
       <img src="https://avatars.githubusercontent.com/u/411493?v=4" />
       <br />
@@ -672,16 +664,16 @@ Follow me to add yourself :)
       <br />
       korbu
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://github.com/esin">
       <img src="https://avatars.githubusercontent.com/u/69767?v=4" />
       <br />
       esin
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/krishaamer">
       <img src="https://avatars.githubusercontent.com/u/54409?v=4" />
