@@ -443,10 +443,10 @@ Follow me to add yourself :)
   </td>
 
   <td align="center">
-    <a href="https://github.com/Hexiro">
+    <a href="https://github.com/hexiro">
       <img src="https://avatars.githubusercontent.com/u/42787085?v=4" />
       <br />
-      Hexiro
+      hexiro
     </a> 
   </td>
 
