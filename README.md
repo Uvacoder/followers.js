@@ -723,14 +723,6 @@ Follow me to add yourself :)
   </td></tr>
 <tr>
   <td align="center">
-    <a href="https://github.com/zyy">
-      <img src="https://avatars.githubusercontent.com/u/2232814?v=4" />
-      <br />
-      zyy
-    </a> 
-  </td>
-
-  <td align="center">
     <a href="https://github.com/0xN0x">
       <img src="https://avatars.githubusercontent.com/u/1781547?v=4" />
       <br />
@@ -768,16 +760,16 @@ Follow me to add yourself :)
       <br />
       korbu
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://github.com/esin">
       <img src="https://avatars.githubusercontent.com/u/69767?v=4" />
       <br />
       esin
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/krishaamer">
       <img src="https://avatars.githubusercontent.com/u/54409?v=4" />
