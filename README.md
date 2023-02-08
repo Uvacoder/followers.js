@@ -3,6 +3,14 @@ Follow me to add yourself :)
 <!--START_SECTION:top-followers-->
 <table><tr>
   <td align="center">
+    <a href="https://github.com/BILLIGERsTORE">
+      <img src="https://avatars.githubusercontent.com/u/115326062?v=4" />
+      <br />
+      BILLIGERsTORE
+    </a> 
+  </td>
+
+  <td align="center">
     <a href="https://github.com/Jani231">
       <img src="https://avatars.githubusercontent.com/u/114852822?v=4" />
       <br />
@@ -23,14 +31,6 @@ Follow me to add yourself :)
       <img src="https://avatars.githubusercontent.com/u/111836496?v=4" />
       <br />
       Kampotboy
-    </a> 
-  </td>
-
-  <td align="center">
-    <a href="https://github.com/rico-vz">
-      <img src="https://avatars.githubusercontent.com/u/107053109?v=4" />
-      <br />
-      rico-vz
     </a> 
   </td>
 
