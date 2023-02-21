@@ -3,14 +3,6 @@ Follow me to add yourself :)
 <!--START_SECTION:top-followers-->
 <table><tr>
   <td align="center">
-    <a href="https://github.com/BILLIGERsTORE">
-      <img src="https://avatars.githubusercontent.com/u/115326062?v=4" />
-      <br />
-      BILLIGERsTORE
-    </a> 
-  </td>
-
-  <td align="center">
     <a href="https://github.com/Jani231">
       <img src="https://avatars.githubusercontent.com/u/114852822?v=4" />
       <br />
@@ -48,16 +40,16 @@ Follow me to add yourself :)
       <br />
       alientechsoft
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://github.com/HaSaNmoradpor">
       <img src="https://avatars.githubusercontent.com/u/101967238?v=4" />
       <br />
       HaSaNmoradpor
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/irisraissa">
       <img src="https://avatars.githubusercontent.com/u/99778699?v=4" />
@@ -96,21 +88,29 @@ Follow me to add yourself :)
       <br />
       Robbiz20
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://github.com/Djxjcxhz">
       <img src="https://avatars.githubusercontent.com/u/95674471?v=4" />
       <br />
       Djxjcxhz
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/Sandesh333333">
       <img src="https://avatars.githubusercontent.com/u/95438448?v=4" />
       <br />
       Sandesh333333
+    </a> 
+  </td>
+
+  <td align="center">
+    <a href="https://github.com/PawanAru99">
+      <img src="https://avatars.githubusercontent.com/u/95272128?v=4" />
+      <br />
+      PawanAru99
     </a> 
   </td>
 
