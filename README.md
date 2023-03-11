@@ -211,10 +211,10 @@ Follow me to add yourself :)
   </td>
 
   <td align="center">
-    <a href="https://github.com/niclaskato">
+    <a href="https://github.com/goldpal">
       <img src="https://avatars.githubusercontent.com/u/87049471?v=4" />
       <br />
-      niclaskato
+      goldpal
     </a> 
   </td>
 
