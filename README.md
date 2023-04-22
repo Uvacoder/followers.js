@@ -243,10 +243,10 @@ Follow me to add yourself :)
   </td></tr>
 <tr>
   <td align="center">
-    <a href="https://github.com/thespythinker">
+    <a href="https://github.com/T-0-r-nado">
       <img src="https://avatars.githubusercontent.com/u/83327708?v=4" />
       <br />
-      thespythinker
+      T-0-r-nado
     </a> 
   </td>
 
