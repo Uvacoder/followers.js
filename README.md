@@ -3,6 +3,14 @@ Follow me to add yourself :)
 <!--START_SECTION:top-followers-->
 <table><tr>
   <td align="center">
+    <a href="https://github.com/alientechsoft">
+      <img src="https://avatars.githubusercontent.com/u/104167674?v=4" />
+      <br />
+      alientechsoft
+    </a> 
+  </td>
+
+  <td align="center">
     <a href="https://github.com/Harishvrao">
       <img src="https://avatars.githubusercontent.com/u/103136586?v=4" />
       <br />
@@ -40,21 +48,13 @@ Follow me to add yourself :)
       <br />
       tisumon
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/jordan-moreira">
       <img src="https://avatars.githubusercontent.com/u/97352446?v=4" />
       <br />
       jordan-moreira
-    </a> 
-  </td></tr>
-<tr>
-  <td align="center">
-    <a href="https://github.com/cumsoft">
-      <img src="https://avatars.githubusercontent.com/u/97250816?v=4" />
-      <br />
-      cumsoft
     </a> 
   </td>
 
