@@ -3,14 +3,6 @@ Follow me to add yourself :)
 <!--START_SECTION:top-followers-->
 <table><tr>
   <td align="center">
-    <a href="https://github.com/HaSaNmoradpor">
-      <img src="https://avatars.githubusercontent.com/u/101967238?v=4" />
-      <br />
-      HaSaNmoradpor
-    </a> 
-  </td>
-
-  <td align="center">
     <a href="https://github.com/irisraissa">
       <img src="https://avatars.githubusercontent.com/u/99778699?v=4" />
       <br />
@@ -39,6 +31,14 @@ Follow me to add yourself :)
       <img src="https://avatars.githubusercontent.com/u/97352446?v=4" />
       <br />
       jordan-moreira
+    </a> 
+  </td>
+
+  <td align="center">
+    <a href="https://github.com/cumsoft">
+      <img src="https://avatars.githubusercontent.com/u/97250816?v=4" />
+      <br />
+      cumsoft
     </a> 
   </td>
 
