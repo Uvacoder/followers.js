@@ -3,14 +3,6 @@ Follow me to add yourself :)
 <!--START_SECTION:top-followers-->
 <table><tr>
   <td align="center">
-    <a href="https://github.com/irisraissa">
-      <img src="https://avatars.githubusercontent.com/u/99778699?v=4" />
-      <br />
-      irisraissa
-    </a> 
-  </td>
-
-  <td align="center">
     <a href="https://github.com/ArthurHendrich">
       <img src="https://avatars.githubusercontent.com/u/99266969?v=4" />
       <br />
@@ -48,16 +40,16 @@ Follow me to add yourself :)
       <br />
       Robbiz20
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://github.com/Djxjcxhz">
       <img src="https://avatars.githubusercontent.com/u/95674471?v=4" />
       <br />
       Djxjcxhz
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/Sandesh333333">
       <img src="https://avatars.githubusercontent.com/u/95438448?v=4" />
@@ -96,21 +88,29 @@ Follow me to add yourself :)
       <br />
       Kristofferssoon
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://github.com/TopCodeBeast">
       <img src="https://avatars.githubusercontent.com/u/93806749?v=4" />
       <br />
       TopCodeBeast
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/lilaroky">
       <img src="https://avatars.githubusercontent.com/u/93484212?v=4" />
       <br />
       lilaroky
+    </a> 
+  </td>
+
+  <td align="center">
+    <a href="https://github.com/SoloMReal">
+      <img src="https://avatars.githubusercontent.com/u/93363580?v=4" />
+      <br />
+      SoloMReal
     </a> 
   </td>
 
