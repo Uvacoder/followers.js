@@ -3,14 +3,6 @@ Follow me to add yourself :)
 <!--START_SECTION:top-followers-->
 <table><tr>
   <td align="center">
-    <a href="https://github.com/cumsoft">
-      <img src="https://avatars.githubusercontent.com/u/97250816?v=4" />
-      <br />
-      cumsoft
-    </a> 
-  </td>
-
-  <td align="center">
     <a href="https://github.com/Robbiz20">
       <img src="https://avatars.githubusercontent.com/u/96856146?v=4" />
       <br />
@@ -48,16 +40,16 @@ Follow me to add yourself :)
       <br />
       vacation-er
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://github.com/Kadererkan">
       <img src="https://avatars.githubusercontent.com/u/94866514?v=4" />
       <br />
       Kadererkan
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/Kristofferssoon">
       <img src="https://avatars.githubusercontent.com/u/94531172?v=4" />
@@ -96,16 +88,16 @@ Follow me to add yourself :)
       <br />
       EgeSarak
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://github.com/zb1093628138">
       <img src="https://avatars.githubusercontent.com/u/91184748?v=4" />
       <br />
       zb1093628138
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/sparrowkvng">
       <img src="https://avatars.githubusercontent.com/u/90632344?v=4" />
@@ -144,16 +136,16 @@ Follow me to add yourself :)
       <br />
       FhillSlinger
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://github.com/devesh-chander">
       <img src="https://avatars.githubusercontent.com/u/89605079?v=4" />
       <br />
       devesh-chander
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/ksenginew">
       <img src="https://avatars.githubusercontent.com/u/89186091?v=4" />
@@ -192,16 +184,16 @@ Follow me to add yourself :)
       <br />
       Vishal313-m
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://github.com/Marinho-salles">
       <img src="https://avatars.githubusercontent.com/u/84875639?v=4" />
       <br />
       Marinho-salles
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/T-0-r-nado">
       <img src="https://avatars.githubusercontent.com/u/83327708?v=4" />
@@ -239,6 +231,14 @@ Follow me to add yourself :)
       <img src="https://avatars.githubusercontent.com/u/82006357?v=4" />
       <br />
       marianorigo18
+    </a> 
+  </td>
+
+  <td align="center">
+    <a href="https://github.com/0vm">
+      <img src="https://avatars.githubusercontent.com/u/79897291?v=4" />
+      <br />
+      0vm
     </a> 
   </td></tr>
 <tr>
