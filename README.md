@@ -3,6 +3,14 @@ Follow me to add yourself :)
 <!--START_SECTION:top-followers-->
 <table><tr>
   <td align="center">
+    <a href="https://github.com/tisumon">
+      <img src="https://avatars.githubusercontent.com/u/97844771?v=4" />
+      <br />
+      tisumon
+    </a> 
+  </td>
+
+  <td align="center">
     <a href="https://github.com/jordan-moreira">
       <img src="https://avatars.githubusercontent.com/u/97352446?v=4" />
       <br />
@@ -40,21 +48,13 @@ Follow me to add yourself :)
       <br />
       Sandesh333333
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/PawanAru99">
       <img src="https://avatars.githubusercontent.com/u/95272128?v=4" />
       <br />
       PawanAru99
-    </a> 
-  </td></tr>
-<tr>
-  <td align="center">
-    <a href="https://github.com/vacation-er">
-      <img src="https://avatars.githubusercontent.com/u/95066549?v=4" />
-      <br />
-      vacation-er
     </a> 
   </td>
 
