@@ -171,10 +171,10 @@ Follow me to add yourself :)
   </td>
 
   <td align="center">
-    <a href="https://github.com/T-0-r-nado">
+    <a href="https://github.com/rollno7">
       <img src="https://avatars.githubusercontent.com/u/83327708?v=4" />
       <br />
-      T-0-r-nado
+      rollno7
     </a> 
   </td>
 
