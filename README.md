@@ -227,10 +227,10 @@ Follow me to add yourself :)
   </td>
 
   <td align="center">
-    <a href="https://github.com/web3dev514">
+    <a href="https://github.com/deepsea514">
       <img src="https://avatars.githubusercontent.com/u/74522790?v=4" />
       <br />
-      web3dev514
+      deepsea514
     </a> 
   </td>
 
