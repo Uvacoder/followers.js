@@ -619,10 +619,10 @@ Follow me to add yourself :)
   </td>
 
   <td align="center">
-    <a href="https://github.com/AYIDouble">
+    <a href="https://github.com/IDouble">
       <img src="https://avatars.githubusercontent.com/u/18186995?v=4" />
       <br />
-      AYIDouble
+      IDouble
     </a> 
   </td></tr>
 <tr>
