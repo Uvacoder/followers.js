@@ -355,10 +355,10 @@ Follow me to add yourself :)
   </td>
 
   <td align="center">
-    <a href="https://github.com/0xacn">
+    <a href="https://github.com/andrewhummus">
       <img src="https://avatars.githubusercontent.com/u/59238070?v=4" />
       <br />
-      0xacn
+      andrewhummus
     </a> 
   </td>
 
