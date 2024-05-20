@@ -139,10 +139,10 @@ Follow me to add yourself :)
   </td>
 
   <td align="center">
-    <a href="https://github.com/n4ru70143">
+    <a href="https://github.com/N4ru7o007">
       <img src="https://avatars.githubusercontent.com/u/83327708?v=4" />
       <br />
-      n4ru70143
+      N4ru7o007
     </a> 
   </td></tr>
 <tr>
