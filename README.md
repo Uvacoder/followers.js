@@ -347,10 +347,10 @@ Follow me to add yourself :)
   </td>
 
   <td align="center">
-    <a href="https://github.com/andrewhummus">
+    <a href="https://github.com/andrewn6">
       <img src="https://avatars.githubusercontent.com/u/59238070?v=4" />
       <br />
-      andrewhummus
+      andrewn6
     </a> 
   </td>
 
