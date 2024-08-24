@@ -107,10 +107,10 @@ Follow me to add yourself :)
   </td>
 
   <td align="center">
-    <a href="https://github.com/N4ru7o007">
+    <a href="https://github.com/sevress">
       <img src="https://avatars.githubusercontent.com/u/83327708?v=4" />
       <br />
-      N4ru7o007
+      sevress
     </a> 
   </td>
 
