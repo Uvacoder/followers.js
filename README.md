@@ -491,10 +491,10 @@ Follow me to add yourself :)
   </td>
 
   <td align="center">
-    <a href="https://github.com/xilinx-warrior">
+    <a href="https://github.com/Xilover">
       <img src="https://avatars.githubusercontent.com/u/34143630?v=4" />
       <br />
-      xilinx-warrior
+      Xilover
     </a> 
   </td>
 
