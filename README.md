@@ -59,10 +59,10 @@ Follow me to add yourself :)
   </td>
 
   <td align="center">
-    <a href="https://github.com/sevress">
+    <a href="https://github.com/z3r0b47">
       <img src="https://avatars.githubusercontent.com/u/83327708?v=4" />
       <br />
-      sevress
+      z3r0b47
     </a> 
   </td>
 
