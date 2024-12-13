@@ -3,6 +3,14 @@ Follow me to add yourself :)
 <!--START_SECTION:top-followers-->
 <table><tr>
   <td align="center">
+    <a href="https://github.com/diogopereiradev">
+      <img src="https://avatars.githubusercontent.com/u/89779630?v=4" />
+      <br />
+      diogopereiradev
+    </a> 
+  </td>
+
+  <td align="center">
     <a href="https://github.com/devesh-chander">
       <img src="https://avatars.githubusercontent.com/u/89605079?v=4" />
       <br />
@@ -39,14 +47,6 @@ Follow me to add yourself :)
       <img src="https://avatars.githubusercontent.com/u/86043940?v=4" />
       <br />
       RafhsPaiz
-    </a> 
-  </td>
-
-  <td align="center">
-    <a href="https://github.com/feder-cr">
-      <img src="https://avatars.githubusercontent.com/u/85809106?v=4" />
-      <br />
-      feder-cr
     </a> 
   </td></tr>
 <tr>
