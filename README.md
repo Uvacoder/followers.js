@@ -771,10 +771,10 @@ Follow me to add yourself :)
   </td></tr>
 <tr>
   <td align="center">
-    <a href="https://github.com/jeffersonsimaogoncalves">
+    <a href="https://github.com/jeffersongoncalves">
       <img src="https://avatars.githubusercontent.com/u/411493?v=4" />
       <br />
-      jeffersonsimaogoncalves
+      jeffersongoncalves
     </a> 
   </td>
 
