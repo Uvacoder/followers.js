@@ -555,10 +555,10 @@ Follow me to add yourself :)
   </td>
 
   <td align="center">
-    <a href="https://github.com/fatih-yavuz">
+    <a href="https://github.com/pusuktv">
       <img src="https://avatars.githubusercontent.com/u/18377668?v=4" />
       <br />
-      fatih-yavuz
+      pusuktv
     </a> 
   </td>
 
