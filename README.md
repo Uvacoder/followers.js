@@ -579,10 +579,10 @@ Follow me to add yourself :)
   </td></tr>
 <tr>
   <td align="center">
-    <a href="https://github.com/fatih-yavuz">
+    <a href="https://github.com/ok2xx">
       <img src="https://avatars.githubusercontent.com/u/18377668?v=4" />
       <br />
-      fatih-yavuz
+      ok2xx
     </a> 
   </td>
 
