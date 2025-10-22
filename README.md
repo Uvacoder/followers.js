@@ -691,10 +691,10 @@ Follow me to add yourself :)
   </td>
 
   <td align="center">
-    <a href="https://github.com/jstilwell">
+    <a href="https://github.com/jesse-dot-id">
       <img src="https://avatars.githubusercontent.com/u/5571647?v=4" />
       <br />
-      jstilwell
+      jesse-dot-id
     </a> 
   </td>
 
