@@ -3,6 +3,14 @@ Follow me to add yourself :)
 <!--START_SECTION:top-followers-->
 <table><tr>
   <td align="center">
+    <a href="https://github.com/ksenginew">
+      <img src="https://avatars.githubusercontent.com/u/89186091?v=4" />
+      <br />
+      ksenginew
+    </a> 
+  </td>
+
+  <td align="center">
     <a href="https://github.com/22940dev">
       <img src="https://avatars.githubusercontent.com/u/88142969?v=4" />
       <br />
@@ -40,16 +48,16 @@ Follow me to add yourself :)
       <br />
       Marinho-salles
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/z3r0b47">
       <img src="https://avatars.githubusercontent.com/u/83327708?v=4" />
       <br />
       z3r0b47
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://github.com/yurri-yeskov">
       <img src="https://avatars.githubusercontent.com/u/83100719?v=4" />
@@ -79,14 +87,6 @@ Follow me to add yourself :)
       <img src="https://avatars.githubusercontent.com/u/82006357?v=4" />
       <br />
       marianorigo18
-    </a> 
-  </td>
-
-  <td align="center">
-    <a href="https://github.com/ThiroshMadhusha">
-      <img src="https://avatars.githubusercontent.com/u/79472177?v=4" />
-      <br />
-      ThiroshMadhusha
     </a> 
   </td>
 
