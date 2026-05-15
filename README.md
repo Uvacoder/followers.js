@@ -3,10 +3,10 @@ Follow me to add yourself :)
 <!--START_SECTION:top-followers-->
 <table><tr>
   <td align="center">
-    <a href="https://github.com/jamesgeodi">
-      <img src="https://avatars.githubusercontent.com/u/85102529?v=4" />
+    <a href="https://github.com/hestiyak">
+      <img src="https://avatars.githubusercontent.com/u/85102443?v=4" />
       <br />
-      jamesgeodi
+      hestiyak
     </a> 
   </td>
 
