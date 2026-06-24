@@ -3,18 +3,18 @@ Follow me to add yourself :)
 <!--START_SECTION:top-followers-->
 <table><tr>
   <td align="center">
-    <a href="https://github.com/RafhsPaiz">
-      <img src="https://avatars.githubusercontent.com/u/86043940?v=4" />
+    <a href="https://github.com/Wenyveo">
+      <img src="https://avatars.githubusercontent.com/u/85108859?v=4" />
       <br />
-      RafhsPaiz
+      Wenyveo
     </a> 
   </td>
 
   <td align="center">
-    <a href="https://github.com/Vishal313-m">
-      <img src="https://avatars.githubusercontent.com/u/85690685?v=4" />
+    <a href="https://github.com/otosmane">
+      <img src="https://avatars.githubusercontent.com/u/85108775?v=4" />
       <br />
-      Vishal313-m
+      otosmane
     </a> 
   </td>
 
