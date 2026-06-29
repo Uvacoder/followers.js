@@ -3,6 +3,14 @@ Follow me to add yourself :)
 <!--START_SECTION:top-followers-->
 <table><tr>
   <td align="center">
+    <a href="https://github.com/lynechic">
+      <img src="https://avatars.githubusercontent.com/u/85108948?v=4" />
+      <br />
+      lynechic
+    </a> 
+  </td>
+
+  <td align="center">
     <a href="https://github.com/Wenyveo">
       <img src="https://avatars.githubusercontent.com/u/85108859?v=4" />
       <br />
@@ -15,14 +23,6 @@ Follow me to add yourself :)
       <img src="https://avatars.githubusercontent.com/u/85108775?v=4" />
       <br />
       otosmane
-    </a> 
-  </td>
-
-  <td align="center">
-    <a href="https://github.com/mirainiki">
-      <img src="https://avatars.githubusercontent.com/u/85108576?v=4" />
-      <br />
-      mirainiki
     </a> 
   </td>
 
