@@ -3,22 +3,6 @@ Follow me to add yourself :)
 <!--START_SECTION:top-followers-->
 <table><tr>
   <td align="center">
-    <a href="https://github.com/RafhsPaiz">
-      <img src="https://avatars.githubusercontent.com/u/86043940?v=4" />
-      <br />
-      RafhsPaiz
-    </a> 
-  </td>
-
-  <td align="center">
-    <a href="https://github.com/Vishal313-m">
-      <img src="https://avatars.githubusercontent.com/u/85690685?v=4" />
-      <br />
-      Vishal313-m
-    </a> 
-  </td>
-
-  <td align="center">
     <a href="https://github.com/neuslobe">
       <img src="https://avatars.githubusercontent.com/u/85106889?v=4" />
       <br />
@@ -31,6 +15,22 @@ Follow me to add yourself :)
       <img src="https://avatars.githubusercontent.com/u/85106739?v=4" />
       <br />
       yunawyner
+    </a> 
+  </td>
+
+  <td align="center">
+    <a href="https://github.com/liliyahoa">
+      <img src="https://avatars.githubusercontent.com/u/85106570?v=4" />
+      <br />
+      liliyahoa
+    </a> 
+  </td>
+
+  <td align="center">
+    <a href="https://github.com/nerihamura">
+      <img src="https://avatars.githubusercontent.com/u/85106448?v=4" />
+      <br />
+      nerihamura
     </a> 
   </td>
 
