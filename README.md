@@ -3,6 +3,14 @@ Follow me to add yourself :)
 <!--START_SECTION:top-followers-->
 <table><tr>
   <td align="center">
+    <a href="https://github.com/neuslobe">
+      <img src="https://avatars.githubusercontent.com/u/85106889?v=4" />
+      <br />
+      neuslobe
+    </a> 
+  </td>
+
+  <td align="center">
     <a href="https://github.com/yunawyner">
       <img src="https://avatars.githubusercontent.com/u/85106739?v=4" />
       <br />
@@ -15,14 +23,6 @@ Follow me to add yourself :)
       <img src="https://avatars.githubusercontent.com/u/85106652?v=4" />
       <br />
       hidankimi
-    </a> 
-  </td>
-
-  <td align="center">
-    <a href="https://github.com/liliyahoa">
-      <img src="https://avatars.githubusercontent.com/u/85106570?v=4" />
-      <br />
-      liliyahoa
     </a> 
   </td>
 
