@@ -3,6 +3,14 @@ Follow me to add yourself :)
 <!--START_SECTION:top-followers-->
 <table><tr>
   <td align="center">
+    <a href="https://github.com/RafaelPrincival">
+      <img src="https://avatars.githubusercontent.com/u/82247772?v=4" />
+      <br />
+      RafaelPrincival
+    </a> 
+  </td>
+
+  <td align="center">
     <a href="https://github.com/marianorigo18">
       <img src="https://avatars.githubusercontent.com/u/82006357?v=4" />
       <br />
@@ -15,14 +23,6 @@ Follow me to add yourself :)
       <img src="https://avatars.githubusercontent.com/u/79579279?v=4" />
       <br />
       Carrington-dev
-    </a> 
-  </td>
-
-  <td align="center">
-    <a href="https://github.com/Nisyalz01">
-      <img src="https://avatars.githubusercontent.com/u/78288734?v=4" />
-      <br />
-      Nisyalz01
     </a> 
   </td>
 
